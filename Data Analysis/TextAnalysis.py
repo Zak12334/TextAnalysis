@@ -2,15 +2,12 @@
 # -*- coding: utf-8 -*-
 """
 Created on a rainy day
+Done on a rainy day
 
-@author: XYZ
-
-
-Student Name: Sekeriye Osman(Zak)
-
-Student ID: R00237642
-
-Cohort:SD3A
+-----------------------------------------
+This Python project automates text processing and analysis for .txt files. It cleans and counts words, 
+identifies unique terms from filenames, and calculates statistics like empty lines and word sizes. 
+The script also visualizes key data points, providing a concise overview of text content dynamics.
 
 """
 import os
